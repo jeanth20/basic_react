@@ -12,3 +12,5 @@ password: jean.t@affinityhealth.co.za
 
 look at:
 https://dev.to/tigawanna/pocketbase-with-react-and-react-query-40dn
+
+https://dev.to/fayismahmood/pocketbase-readymade-backend-within-clicks-21hi
