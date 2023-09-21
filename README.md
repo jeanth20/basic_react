@@ -15,3 +15,5 @@ look at:
 https://dev.to/tigawanna/pocketbase-with-react-and-react-query-40dn
 
 https://dev.to/fayismahmood/pocketbase-readymade-backend-within-clicks-21hi
+
+https://dev.to/raghavmri/how-can-you-create-a-backend-in-few-minutes-using-pocketbase-42hi
